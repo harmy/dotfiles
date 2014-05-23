@@ -32,3 +32,8 @@ cd ~/.emacs.d
 cask
 ```
 
+* install jedi server
+
+```
+M-x jedi:install-server RET
+```
